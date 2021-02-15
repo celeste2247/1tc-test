@@ -1,7 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import MyFunc from './member_pages/celeste';
 
 function App() {
+  // javascript
+  // small sub functions
+  // variables
+
+
+
   return (
     <div className="App">
       <header className="App-header">
