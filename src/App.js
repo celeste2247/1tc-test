@@ -24,6 +24,7 @@ function App() {
         >
           Learn React
         </a>
+        <celeste></celeste>
       </header>
     </div>
   );
