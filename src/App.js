@@ -1,8 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
+<<<<<<< HEAD
 import Annie from './member_pages/annie';
+=======
+import MyFunc from './member_pages/celeste';
+>>>>>>> abd0a0bd35aa08d56e927894258edef9adfac58d
 
 function App() {
+  // javascript
+  // small sub functions
+  // variables
+
+
+
   return (
     <div className="App">
       <header className="App-header">
